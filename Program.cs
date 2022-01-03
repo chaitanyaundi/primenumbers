@@ -8,6 +8,8 @@ namespace primenumbers
         static void Main(string[] args)
         {
             Console.WriteLine("Chaitanya");
+            Console.WriteLine("undi");
+            Console.WriteLine(3);
             var box = new List<int>();
             Console.Write("Enter the number for the range of primes till this number: ");
             int num = Convert.ToInt32(Console.ReadLine());
